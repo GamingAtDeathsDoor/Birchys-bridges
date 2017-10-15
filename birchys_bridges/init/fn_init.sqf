@@ -12,4 +12,4 @@ Add more by copy, pasting the line.
 diag_log "Starting Birchy's Bridges";
 
 call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\Bridges.sqf";
-call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\Bridge_markers.sqf";
+call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\Bridgemarkers.sqf";
